@@ -1,129 +1,202 @@
-<div align="center">
+<div align="left">
 
-# Mahir Mehta
+<h1 align="left">Mahir Mehta | MSc Quantitative Finance Student at SMU</h1>
 
-### Quantitative Finance · Market Microstructure · HFT Data Infrastructure · Systematic Trading
+<h3 align="left">Ex-Quantitative Data Engineer · Market Microstructure · Tick-by-Tick Data · Low-Latency C++ · Alpha Factors · Systematic Trading · Reinforcement Learning</h3>
 
-*MSc Quantitative Finance student at Singapore Management University, with experience building high-frequency market-data infrastructure and quantitative trading research workflows.*
+<p align="justify">
+MSc Quantitative Finance student at <b>Singapore Management University</b> and <b>Impact on Asia Scholar</b>, with two years of experience building the data and signal infrastructure that systematic trading runs on. At <b>Edelweiss Global Markets</b>, I engineered tick-by-tick (TBT) market data platforms for Indian exchanges, processing <b>multi-terabyte</b> datasets across equities, derivatives and commodities, and wrote the <b>C++ pipelines</b> that turn live Order Book and Trade Book feeds into <b>market microstructure signals and alpha factors</b>. I cut query latency by <b>40%</b> on <b>multi-billion-row</b> ClickHouse and PostgreSQL time-series stores, built the data-quality, lineage and observability layers that production trading depends on, and developed an end-to-end tick-level backtesting and simulation platform for my own strategy. My reinforcement learning research for algorithmic trading is <b>published with Springer (ICDSA 2024)</b>. At SMU I am deepening my work in <b>stochastic modelling, asset pricing and computational finance</b> to connect production-grade engineering with quantitative research.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahir-mehta/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mahirmehta77@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/mahir-mehta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mahirmehta77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/mahirmehta"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 </div>
 
 ---
 
-## About
+## Impact at a Glance
 
-I work at the intersection of **quantitative finance, market microstructure, and data engineering**. My experience at Edelweiss Global Markets focused on building reliable, high-throughput infrastructure for tick-level market data and supporting the research and evaluation of systematic trading strategies.
+| Metric | Result | Context |
+|---|---|---|
+| Query latency | **-40%** | Multi-billion-row historical datasets on ClickHouse and PostgreSQL |
+| Data scale | **Multi-terabyte** | Exchange tick-by-tick datasets powering quantitative research and systematic trading |
+| Market coverage | **Equities, derivatives, commodities** | End-to-end stewardship of Indian market data: ETL, metadata, lineage |
+| Signals | **Real-time, C++** | Order Book and Trade Book feature generation into microstructure signals and alpha factors |
+| Publication | **Springer, ICDSA 2024** | Comparative analysis of reinforcement learning algorithms for algorithmic trading |
+| Academic record | **9.03 / 10 CGPA** | B.Tech, First Class with Distinction, Honors in Data Science & Analytics |
+| Performance record | **Highest distinction** | "Exceeds Expectations" and the PROPAT Excellence Award at Edelweiss |
 
-I am currently pursuing an **MSc in Quantitative Finance at Singapore Management University (SMU)**, building on a Computer Engineering background with Honors in Data Science & Analytics. I enjoy translating complex financial-market data into robust systems, measurable research, and actionable quantitative insights.
+---
 
-My interests include:
+## Professional Summary
 
-- **Quantitative research:** systematic strategies, backtesting, statistical analysis, and alpha-factor research
-- **Market microstructure:** order books, trade flows, tick data, and execution-aware signals
-- **Quantitative development:** performance-conscious C++, Python, and research infrastructure
-- **Financial data engineering:** reliable ETL, time-series databases, data quality, and observability
-- **Applied analytics:** using statistical and machine-learning methods to investigate financial and operational problems
+**MSc Quantitative Finance student at Singapore Management University** (Lee Kong Chian School of Business, Impact on Asia Scholar), with industry experience building **low-latency market data infrastructure** and the **microstructure signals** that feed systematic and high-frequency trading.
+Previously an **Assistant Manager on the Global Data Team at Edelweiss Global Markets (Aug 2024 - Jun 2026)**, owning the **tick-by-tick data stack** for Indian exchanges, from live feed ingestion and **C++ order book feature engines** to **ClickHouse/PostgreSQL storage**, **Airflow orchestration** and **Grafana/Superset observability**.
+Reduced query latency by **40%** on **multi-billion-row** datasets and built the **data quality, lineage and monitoring layers** that downstream quant research and production trading rely on.
+Authored published research (**Springer, ICDSA 2024**) comparing **reinforcement learning algorithms for algorithmic trading**, and built a **tick-level backtesting and simulation platform** to validate my own strategy end to end.
+Expertise spans **market microstructure**, **C++ high-throughput pipelines**, **time-series database tuning**, **ETL and data governance**, and **quantitative strategy research**. Currently deepening **stochastic modelling, asset pricing and computational finance** at SMU.
 
-## Experience
-
-### Edelweiss Global Markets — Assistant Manager, Global Data Team
-*Mumbai, India · August 2024 – June 2026*
-
-- Engineered high-frequency trading (HFT) and tick-by-tick market-data infrastructure for major Indian exchanges, processing multi-terabyte datasets for quantitative research and systematic trading.
-- Built high-performance **C++ pipelines** to generate Order Book and Trade Book features from live exchange feeds, supporting low-latency market-microstructure signals and alpha factors.
-- Developed pipelines for real-time ingestion, validation, storage, and distribution of tick-level data across production trading systems.
-- Designed data-quality checks to improve the accuracy and reliability of downstream quantitative analytics.
-- Managed ETL workflows, metadata, and lineage across equities, derivatives, and commodities.
-- Optimized financial time-series workloads in **ClickHouse and PostgreSQL**, reducing query latency by **40%** on multi-billion-row historical datasets.
-- Orchestrated ETL workflows with **Apache Airflow** and built monitoring dashboards using **Grafana and Apache Superset**.
-- Developed a quantitative trading strategy and an end-to-end backtesting and simulation platform using historical tick-level market data.
-
-### LogiNext — Junior Software Engineer, Analyst (Internship)
-*Mumbai, India · July 2023 – October 2023*
-
-- Built data-driven map-construction algorithms and a Map Evaluation Framework, improving node-evaluation precision by **30%**.
-- Optimized processing of large geospatial datasets, reducing computational overhead by **15%** across spatial routing networks.
-- Worked with OpenStreetMap data structures and metadata using **Python, PostGIS, MongoDB, and QGIS**.
-- Researched spatial clustering and road-network quality, contributing to a **25% improvement** in location-based routing intelligence.
+---
 
 ## Education
 
-### Singapore Management University (SMU)
-**Master of Science in Quantitative Finance** · August 2026 – December 2027
-
-- Recipient of the **Impact on Asia Scholarship (S$10,000)**
-- Relevant coursework: Programming & Computational Finance, Stochastic Modelling in Finance, Asset Pricing, and Quantitative Analysis of Financial Markets
-
-### KJ Somaiya College of Engineering — Somaiya Vidyavihar University
-**BTech in Computer Engineering; Honors in Data Science & Analytics** · August 2020 – May 2024
-
-- Graduated with First Class Honors / Distinction
-- **CGPA: 9.03/10.00**
-
-## Research & Quantitative Interests
-
-### Comparative Analysis of Reinforcement Learning Algorithms for Decision Making in Algorithmic Trading
-Research paper exploring reinforcement-learning algorithms in the context of algorithmic-trading decision-making.
-
-Areas I am interested in exploring further:
-
-- Market-microstructure features and order-book dynamics
-- Backtesting methodology, transaction costs, and execution assumptions
-- Statistical validation of trading signals and strategy robustness
-- Time-series analysis and quantitative modelling
-- Data quality, reproducibility, and scalable research pipelines
-
-## Selected Work
-
-### Quantitative Trading Strategy & Backtesting Platform
-Developed a strategy and an end-to-end backtesting and simulation platform using historical tick-level market data to evaluate performance, adjust parameters, and assess execution.
-
-**Focus:** tick data · strategy evaluation · backtesting · execution-aware analysis
-
-### High-Frequency Market Data Infrastructure
-Built C++ feature-generation pipelines and supporting data workflows for real-time Order Book and Trade Book data, with a focus on performance, reliability, and data quality.
-
-**Focus:** C++ · HFT/TBT data · market microstructure · data validation · low-latency pipelines
-
-### Geospatial Data & Map Evaluation
-Worked on map-construction algorithms and evaluation workflows using large geospatial datasets and OpenStreetMap.
-
-**Focus:** Python · graph processing · PostGIS · MongoDB · QGIS
-
-> Project descriptions above summarize work listed on my résumé. Public repositories and implementation details can be linked here as they are published.
-
-## Technical Toolkit
-
-| Area | Tools & Technologies |
-|---|---|
-| **Programming** | C++, Python, R, Java, SQL, Shell Scripting |
-| **Quant & Data Analysis** | Quantitative modelling, statistical analysis, financial time series, strategy backtesting |
-| **Market Data & Databases** | ClickHouse, PostgreSQL, MongoDB |
-| **Data Engineering** | Apache Airflow, ETL pipelines, data validation, metadata management, data lineage |
-| **Monitoring & Analytics** | Grafana, Apache Superset, Tableau, Power BI, Microsoft Excel |
-| **Development & Systems** | Linux, Git, Jira |
-| **Geospatial & Other** | PostGIS, QGIS, React, Spring, OpenMetaData |
-
-## Certifications & Recognition
-
-- **NISM Series VIII — Equity Derivatives Certification**
-- **ACE of PROPAT** — Productively Paranoid Excellence Award, Edelweiss Global Markets
-- **Exceeds Expectations** — Highest Performance Distinction, Edelweiss Global Markets
-
-## Connect
-
-I am interested in conversations and opportunities related to quantitative research, quantitative development, market microstructure, systematic trading, and financial data infrastructure.
-
-- **LinkedIn:** [linkedin.com/in/mahir-mehta](https://www.linkedin.com/in/mahir-mehta/)
-- **Email:** [mahir.mehta.2026@mqf.smu.edu.sg](mailto:mahir.mehta.2026@mqf.smu.edu.sg)
+- **Singapore Management University (SMU), Lee Kong Chian School of Business:** M.Sc. in Quantitative Finance | *Aug 2026 - Dec 2027*
+- **KJ Somaiya College of Engineering, India:** B.Tech in Computer Engineering (CGPA: 9.03/10.00) | *Aug 2020 - May 2024*
+- **KJ Somaiya College of Engineering, India:** Honors in Data Science & Analytics (First Class Honors / First Class Distinction) *Jan 2021 - May 2024*
 
 ---
 
-<div align="center">
+## Professional Experience
 
-*Building reliable systems for better quantitative decisions.*
+### **[Edelweiss Global Markets](https://www.linkedin.com/company/edelweissglobalmarkets/about/)** | Assistant Manager, Global Data Team
+*Aug 2024 - Jun 2026 | Mumbai, India*
 
-</div>
+Owned the high-frequency and tick-by-tick market data stack for key Indian stock exchanges, supporting quantitative research, systematic trading and production trading systems across equities, derivatives and commodities.
+
+- **Tick-by-Tick Infrastructure:** Engineered HFT and TBT market data infrastructure, processing **multi-terabyte** exchange datasets to support high-throughput quantitative research and systematic trading.
+- **C++ Signal Pipelines:** Built high-performance **C++ pipelines** for real-time **Order Book and Trade Book** feature generation, transforming live exchange feeds into ultra-low-latency **market microstructure signals and alpha factors**.
+- **Data Pipelines:** Constructed scalable pipelines for real-time ingestion, validation, storage and distribution of tick-level market data across production trading systems.
+- **Data Quality:** Formulated comprehensive **Data Quality Check frameworks** that validate tick-level data, increasing the accuracy and reliability of downstream quantitative analytics.
+- **Data Stewardship:** Administered end-to-end stewardship of Indian market data, directing **ETL workflows, metadata management and lineage** across equities, derivatives and commodities.
+- **Database Performance:** Enhanced large-scale financial time-series databases on **ClickHouse and PostgreSQL**, decreasing query latency by **40%** on multi-billion-row historical datasets.
+- **Orchestration:** Automated and orchestrated production ETL workflows with **Apache Airflow**, improving reliability and operational efficiency across multi-exchange market data pipelines.
+- **Observability:** Designed real-time monitoring and observability dashboards in **Grafana and Apache Superset** for continuous visibility into data quality and pipeline health.
+- **Strategy Research:** Formulated a quantitative trading strategy and built an end-to-end **backtesting and simulation platform** on historical tick-level data to evaluate performance, modify parameters and validate execution.
+- **Collaboration:** Partnered with quantitative researchers, traders and software engineering teams to deliver production-grade, low-latency infrastructure supporting alpha generation and trading operations.
+- *Recognition:* **ACE of PROPAT** (Productively Paranoid Excellence Award) and **Exceeds Expectations**, the highest performance distinction.
+- *Tech Stack:* C++, Python, SQL, ClickHouse, PostgreSQL, Apache Airflow, Grafana, Apache Superset, OpenMetaData, Linux, Shell Scripting, Git, Jira.
+
+### **[LogiNext Solutions Inc.](https://loginextsolutions.com/)** | Junior Software Engineer - Analyst (Internship)
+*Jul 2023 - Oct 2023 | Mumbai, India*
+
+Global B2B SaaS supply chain platform providing AI-driven logistics automation, fleet tracking and location intelligence.
+
+- Engineered data-driven **map construction algorithms** and a scalable **Map Evaluation Framework**, improving Node Evaluation precision by **30%**.
+- Evaluated large-scale geospatial datasets and modified processing algorithms, reducing computational overhead by **15%** across spatial routing networks.
+- Analysed **OpenStreetMap (OSM)** data structures and metadata, implementing optimized graph processing algorithms.
+- Prepared technical research reports on spatial clustering and road network quality, accelerating location-based routing intelligence by **25%**.
+- *Tech Stack:* Python, PostGIS, MongoDB, QGIS.
+
+---
+
+## Skills
+
+- **Quantitative Finance:** Market Microstructure, Order Book and Trade Book Analytics, Alpha Factor Generation, Backtesting and Simulation, Systematic Trading, Equity Derivatives (NISM Series VIII), Stochastic Modelling, Asset Pricing
+- **Machine Learning:** Reinforcement Learning for Algorithmic Trading, Data Science & Analytics
+- **Programming:** C++ (primary), Python, R, Java, Spring, SQL, Shell Scripting, React
+- **Time-Series & Databases:** ClickHouse, PostgreSQL, MongoDB, PostGIS
+- **Data Engineering:** Apache Airflow, ETL Design, Metadata Management and Lineage (OpenMetaData), Data Quality Frameworks, Real-Time Ingestion Pipelines
+- **Observability & BI:** Grafana, Apache Superset, Tableau, Power BI, Microsoft Excel
+- **Systems & Tooling:** Linux, Git, Jira, QGIS
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" alt="ClickHouse"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Apache%20Superset-20A6C9?style=flat-square&logo=apachesuperset&logoColor=white" alt="Superset"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
+</p>
+
+---
+
+## Research & Selected Projects
+
+### **[Comparative Analysis of Reinforcement Learning Algorithms for Decision Making in Algorithmic Trading](https://link.springer.com/chapter/10.1007/978-981-96-2179-8_31)**
+*Published in Springer, ICDSA 2024*
+- Benchmarked reinforcement learning algorithms on sequential trading decision-making, comparing how each approach performs as an algorithmic trading agent.
+
+### **Tick-by-Tick Market Data Platform (Edelweiss Global Markets)**
+*Aug 2024 - Jun 2026*
+- Ingestion, validation, storage and distribution layer for multi-terabyte tick-level exchange data feeding research and production trading.
+- Backed by ClickHouse and PostgreSQL stores tuned for a **40%** drop in query latency on multi-billion-row datasets, orchestrated with Airflow and monitored through Grafana and Superset.
+
+### **Real-Time Order Book and Trade Book Feature Engine (C++)**
+*Aug 2024 - Jun 2026*
+- High-performance C++ pipelines converting live exchange feeds into microstructure signals and alpha factors for quantitative research and systematic trading.
+
+### **Tick-Level Backtesting and Simulation Platform**
+*Aug 2024 - Jun 2026*
+- End-to-end platform built on historical tick data for a quantitative strategy I formulated: evaluates performance, modifies parameters and validates execution before deployment.
+
+### **Live Trading Terminal (Personal Project)**
+- Bloomberg-style live trading terminal with a full-stack architecture: **FastAPI** backend, **WebSockets** for streaming data, and a **React/TypeScript** front end with TradingView's `lightweight-charts`.
+- Includes a paper-trading strategy engine implementing **ATR, RSI and ADX** indicators.
+
+---
+
+## Achievements
+
+- **Impact on Asia Scholarship (S$10,000)** - Singapore Management University.
+- **ACE of PROPAT** (Productively Paranoid Excellence Award) - Edelweiss Global Markets.
+- **Exceeds Expectations** - the highest performance distinction at Edelweiss Global Markets.
+- **First Class Honors / First Class Distinction** - B.Tech, CGPA 9.03/10.00.
+- **Published Researcher** - Springer, ICDSA 2024.
+
+---
+
+## Certifications
+
+- **NISM Series VIII:** Equity Derivatives Certification
+
+---
+
+## Volunteering
+
+- **Student Volunteer** - ProjectMumbai.org, Voluntary Public Gratitude art initiative.
+- **Assistant Volunteer** - Clinic of Dr. Shashikant Mehta (M.B.B.S., Family Physician).
+
+---
+
+## Interests & Languages
+
+- **Interests:** Marathon running, markets and trading systems, quantitative research.
+- **Languages:** English (Full Professional); Hindi (Native); Gujarati (Native).
+
+---
+
+## GitHub Impact
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahirmehta&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" width="49%" valign="top" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirmehta&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" width="49%" valign="top" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mahirmehta&theme=github-dark&hide_border=true" alt="Contribution streak" />
+</p>
+
+---
+
+## Connect
+
+Open to quantitative research, quantitative development and trading roles. Work authorization: Singapore (Student Pass, internship eligible) · India (Citizen).
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mahir-mehta/">LinkedIn</a> ·
+  <a href="mailto:mahirmehta77@gmail.com">mahirmehta77@gmail.com</a> ·
+  <a href="https://github.com/mahirmehta">GitHub</a>
+</p>
+
+*If you find my code or research useful, consider starring my repositories.*
+
+<!--
+Quantitative Developer | Quantitative Researcher | Quant Developer | Quant Researcher | Market Data Engineer |
+Tick-by-Tick Data | TBT | High Frequency Trading | HFT | Low Latency C++ | Order Book | Trade Book |
+Market Microstructure | Alpha Factors | Systematic Trading | Algorithmic Trading | Backtesting |
+Reinforcement Learning | ClickHouse | PostgreSQL | Apache Airflow | Grafana | Stochastic Modelling | Asset Pricing |
+SMU | Singapore Management University | MSc Quantitative Finance | Edelweiss Global Markets | Singapore | Mumbai
+-->
