@@ -1,6 +1,6 @@
 <div align="left">
 
-<h1 align="left">Mahir Mehta | MSc Quantitative Finance Student at SMU</h1>
+<h1 align="left">Mahir Mehta | MSc Quantitative Finance at SMU</h1>
 
 <h3 align="left">Ex-Quantitative Data Engineer · Market Microstructure · Tick-by-Tick Data · Low-Latency C++ · Alpha Factors · Systematic Trading · Reinforcement Learning</h3>
 
