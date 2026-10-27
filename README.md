@@ -7,7 +7,7 @@
 *MSc Quantitative Finance student at Singapore Management University, with experience building high-frequency market-data infrastructure and quantitative trading research workflows.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahir-mehta/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mahir.mehta.2026@mqf.smu.edu.sg)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mahirmehta77@gmail.com)
 
 </div>
 
