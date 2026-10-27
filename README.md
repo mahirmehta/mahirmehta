@@ -137,9 +137,8 @@ Global B2B SaaS supply chain platform providing AI-driven logistics automation, 
 
 ---
 
-## Interests & Languages
+## Languages
 
-- **Interests:** Marathon running, markets and trading systems, quantitative research.
 - **Languages:** English (Full Professional); Hindi (Native); Gujarati (Native).
 
 ---
