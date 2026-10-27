@@ -18,20 +18,6 @@ MSc Quantitative Finance student at <b>Singapore Management University</b> and <
 
 ---
 
-## Impact at a Glance
-
-| Metric | Result | Context |
-|---|---|---|
-| Query latency | **-40%** | Multi-billion-row historical datasets on ClickHouse and PostgreSQL |
-| Data scale | **Multi-terabyte** | Exchange tick-by-tick datasets powering quantitative research and systematic trading |
-| Market coverage | **Equities, derivatives, commodities** | End-to-end stewardship of Indian market data: ETL, metadata, lineage |
-| Signals | **Real-time, C++** | Order Book and Trade Book feature generation into microstructure signals and alpha factors |
-| Publication | **Springer, ICDSA 2024** | Comparative analysis of reinforcement learning algorithms for algorithmic trading |
-| Academic record | **9.03 / 10 CGPA** | B.Tech, First Class with Distinction, Honors in Data Science & Analytics |
-| Performance record | **Highest distinction** | "Exceeds Expectations" and the PROPAT Excellence Award at Edelweiss |
-
----
-
 ## Professional Summary
 
 **MSc Quantitative Finance student at Singapore Management University** (Lee Kong Chian School of Business, Impact on Asia Scholar), with industry experience building **low-latency market data infrastructure** and the **microstructure signals** that feed systematic and high-frequency trading.
