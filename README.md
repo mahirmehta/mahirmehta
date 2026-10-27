@@ -5,7 +5,7 @@
 <h3 align="left">Ex-Quantitative Data Engineer · Market Microstructure · Tick-by-Tick Data · Low-Latency C++ · Alpha Factors · Systematic Trading · Reinforcement Learning</h3>
 
 <p align="justify">
-MSc Quantitative Finance student at <b>Singapore Management University</b> and <b>Impact on Asia Scholar</b>, with two years of experience building the data and signal infrastructure that systematic trading runs on. At <b>Edelweiss Global Markets</b>, I engineered tick-by-tick (TBT) market data platforms for Indian exchanges, processing <b>multi-terabyte</b> datasets across equities, derivatives and commodities, and wrote the <b>C++ pipelines</b> that turn live Order Book and Trade Book feeds into <b>market microstructure signals and alpha factors</b>. Worked on query latency on <b>multi-billion-row</b> ClickHouse and PostgreSQL time-series stores, built the data-quality, lineage and observability layers that production trading depends on, and developed an end-to-end tick-level backtesting and simulation platform for my own strategy. My reinforcement learning research for algorithmic trading is <b>published with Springer (ICDSA 2024)</b>.
+MSc Quantitative Finance student at <b>Singapore Management University</b> and <b>Impact on Asia Scholar</b>, with two years of experience building the data and signal infrastructure behind systematic trading. At <b>Edelweiss Global Markets</b>, I engineered tick-by-tick market data platforms for Indian exchanges, processing <b>multi-terabyte</b> datasets across equities, derivatives and commodities, and wrote the <b>C++ pipelines</b> that turn live Order Book and Trade Book feeds into <b>microstructure signals and alpha factors</b>. I worked on query performance across <b>multi-billion-row</b> ClickHouse and PostgreSQL time-series stores, built the data-quality and observability layers that production trading depends on, and published reinforcement learning research for algorithmic trading with <b>Springer (ICDSA 2024)</b>.
 </p>
 
 <p align="left">
@@ -15,16 +15,6 @@ MSc Quantitative Finance student at <b>Singapore Management University</b> and <
 </p>
 
 </div>
-
----
-
-## Professional Summary
-
-**MSc Quantitative Finance student at Singapore Management University** (Lee Kong Chian School of Business, Impact on Asia Scholar), with industry experience building **low-latency market data infrastructure** and the **microstructure signals** that feed systematic and high-frequency trading.
-Previously an **Assistant Manager on the Global Data Team at Edelweiss Global Markets (Aug 2024 - Jun 2026)**, owning the **tick-by-tick data stack** for Indian exchanges, from live feed ingestion and **C++ order book feature engines** to **ClickHouse/PostgreSQL storage**, **Airflow orchestration** and **Grafana/Superset observability**.
-Reduced query latency by **40%** on **multi-billion-row** datasets and built the **data quality, lineage and monitoring layers** that downstream quant research and production trading rely on.
-Authored published research (**Springer, ICDSA 2024**) comparing **reinforcement learning algorithms for algorithmic trading**, and built a **tick-level backtesting and simulation platform** to validate my own strategy end to end.
-Expertise spans **market microstructure**, **C++ high-throughput pipelines**, **time-series database tuning**, **ETL and data governance**, and **quantitative strategy research**. Currently deepening **stochastic modelling, asset pricing and computational finance** at SMU.
 
 ---
 
