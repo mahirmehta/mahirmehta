@@ -145,14 +145,50 @@ Global B2B SaaS supply chain platform providing AI-driven logistics automation, 
 
 ## GitHub Impact
 
+Refreshed daily by `.github/workflows/metrics.yml` from the GitHub API, including private-repository activity.
+
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahirmehta/mahirmehta/output/card.stats.dark.svg" />
+    <img src="https://raw.githubusercontent.com/mahirmehta/mahirmehta/output/card.stats.light.svg" alt="GitHub activity in the last 12 months: contributions, commits, pull requests and issues, streaks, repositories, stars, and forks" width="49%" valign="top" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahirmehta/mahirmehta/output/card.languages.dark.svg" />
+    <img src="https://raw.githubusercontent.com/mahirmehta/mahirmehta/output/card.languages.light.svg" alt="Languages by share of commits in the last 12 months" width="49%" valign="top" />
+  </picture>
+</p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahirmehta/mahirmehta/output/contrib3d.night-green.svg" />
+    <img src="https://raw.githubusercontent.com/mahirmehta/mahirmehta/output/contrib3d.green-animate.svg" alt="3D contribution calendar for the last year" width="100%" />
+  </picture>
+</div>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahirmehta/mahirmehta/output/streak.dark.svg" />
+    <img src="https://raw.githubusercontent.com/mahirmehta/mahirmehta/output/streak.light.svg" alt="Contribution streak: total contributions, current streak, and longest streak" width="49%" valign="top" />
+  </picture>
+  <img src="https://raw.githubusercontent.com/mahirmehta/mahirmehta/output/metrics.calendar.svg" alt="Contribution calendar, commit streaks, and pull request status" width="49%" valign="top" />
+</p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahirmehta/mahirmehta/output/snake.dark.svg" />
+    <img src="https://raw.githubusercontent.com/mahirmehta/mahirmehta/output/snake.light.svg" alt="Animated snake eating the contribution graph" width="100%" />
+  </picture>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mahirmehta" alt="Profile visitor count" />
+</div>
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahirmehta&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" width="49%" valign="top" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirmehta&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" width="49%" valign="top" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mahirmehta&theme=github-dark&hide_border=true" alt="Contribution streak" />
-</p>
+</p> -->
 
 ---
 
