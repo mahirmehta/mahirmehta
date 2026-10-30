@@ -22,7 +22,7 @@ MSc Quantitative Finance student at <b>Singapore Management University</b> and <
 
 - **Singapore Management University (SMU), Lee Kong Chian School of Business:** M.Sc. in Quantitative Finance | *Aug 2026 - Dec 2027*
 - **KJ Somaiya College of Engineering, India:** B.Tech in Computer Engineering (CGPA: 9.03/10.00) | *Aug 2020 - May 2024*
-- **KJ Somaiya College of Engineering, India:** Honors in Data Science & Analytics (First Class Honors / First Class Distinction) *Jan 2021 - May 2024*
+- **KJ Somaiya College of Engineering, India:** Honors in Data Science & Analytics (First Class Honors / First Class Distinction) | *Jan 2021 - May 2024*
 
 ---
 
