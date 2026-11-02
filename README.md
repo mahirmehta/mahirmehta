@@ -144,9 +144,10 @@ Global B2B SaaS supply chain platform providing AI-driven logistics automation, 
 ---
 
 ## GitHub Impact
-
-<p align="center">
+<!--
   <img src="https://github-readme-stats.vercel.app/api?username=mahirmehta&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" width="49%" valign="top" />
+-->
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirmehta&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" width="49%" valign="top" />
 </p>
 
