@@ -118,7 +118,7 @@ Global B2B SaaS supply chain platform providing AI-driven logistics automation, 
 
 - **Impact on Asia Scholarship (S$10,000)** - Singapore Management University.
 - **ACE of PROPAT** (Productively Paranoid Excellence Award) - Edelweiss Global Markets.
-- **Exceeds Expectations** - the highest performance distinction at Edelweiss Global Markets.
+- **Exceeds Expectations** (Highest performance distinction) - Edelweiss Global Markets.
 - **First Class Honors / First Class Distinction** - B.Tech, CGPA 9.03/10.00.
 - **Published Researcher** - Springer, ICDSA 2024.
 
