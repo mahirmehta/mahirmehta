@@ -140,13 +140,13 @@ Global B2B SaaS supply chain platform providing AI-driven logistics automation, 
 ## Languages
 
 - **Languages:** English (Full Professional); Hindi (Native); Gujarati (Native).
-
+<!--
 ---
 
 ## GitHub Impact
-<!--
+
   <img src="https://github-readme-stats.vercel.app/api?username=mahirmehta&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" width="49%" valign="top" />
--->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirmehta&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" width="49%" valign="top" />
 </p>
@@ -154,7 +154,7 @@ Global B2B SaaS supply chain platform providing AI-driven logistics automation, 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mahirmehta&theme=github-dark&hide_border=true" alt="Contribution streak" />
 </p>
-
+-->
 ---
 
 ## Connect
