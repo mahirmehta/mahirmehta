@@ -13,7 +13,7 @@ MSc Quantitative Finance student at <b>Singapore Management University</b> and <
   <a href="mailto:mahirmehta77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/mahirmehta"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
-
+ 
 </div>
 
 ---
