@@ -132,14 +132,14 @@ Global B2B SaaS supply chain platform providing AI-driven logistics automation, 
 
 ## Volunteering
 
-- **Student Volunteer** - ProjectMumbai.org, Voluntary Public Gratitude art initiative.
-- **Assistant Volunteer** - Clinic of Dr. Shashikant Mehta (M.B.B.S., Family Physician).
+- **Student Volunteer** - ProjectMumbai.org, Voluntary Public Gratitude art initiative
+- **Assistant Volunteer** - Clinic of Dr. Shashikant Mehta (M.B.B.S., Family Physician)
 
 ---
 
 ## Languages
 
-- **Languages:** English (Full Professional); Hindi (Native); Gujarati (Native).
+- **Languages:** English (Full Professional); Hindi (Native); Gujarati (Native)
 <!--
 ---
 
