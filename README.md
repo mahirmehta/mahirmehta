@@ -61,7 +61,7 @@ Global B2B SaaS supply chain platform providing AI-driven logistics automation, 
 
 ## Skills
 
-- **Quantitative Finance:** Market Microstructure, Order Book and Trade Book Analytics, Alpha Factor Generation, Backtesting and Simulation, Systematic Trading, Equity Derivatives (NISM Series VIII), Stochastic Modelling, Asset Pricing
+- **Quantitative Finance:** Market Microstructure, Order Book and Trade Book Analytics, Alpha Factor Generation, Backtesting and Simulation, Systematic Trading, Stochastic Modelling, Asset Pricing
 - **Machine Learning:** Reinforcement Learning for Algorithmic Trading, Data Science & Analytics
 - **Programming:** C++ (primary), Python, R, Java, Spring, SQL, Shell Scripting, React
 - **Time-Series & Databases:** ClickHouse, PostgreSQL, MongoDB, PostGIS
