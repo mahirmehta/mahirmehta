@@ -1,4 +1,4 @@
-<div align="left">
+<div align="left"> 
 
 <h1 align="left">Mahir Mehta | MSc Quantitative Finance at SMU</h1> 
 
